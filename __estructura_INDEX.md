@@ -64,6 +64,9 @@ Este índice refleja fielmente la estructura de carpetas y archivos actual utili
 - `registro__registro-sesiones.md`
 - `registro__registro-validaciones.md`
 - `registro__registro-versiones.md`
+  
+## `/recursos/reproductores`
+- `__recursos.reproductores.sonaar-audio`
 
 ## `/sistema_memoria/estrategias`
 - `sistema_memoria.estrategias__criterios_validacion_aprendizajes.md`
@@ -77,5 +80,5 @@ _(Aún sin archivos definidos visibles en las capturas actuales)_
 
 ---
 
-> Última actualización: 2025-07-19
+> Última actualización: 2025-07-23
 > Responsable de sincronización: `GPT_P39_JefeMemoria`
