@@ -1,4 +1,4 @@
-🔖 Versión: 1.0 — Generado: 2025-07-20
+🔖 Versión: 1.1 — Actualizado: 2025-07-20
 
 # 🧱 Estructura de Directorios — Repositorio MP39 Núcleo
 
@@ -36,6 +36,12 @@ Función: Soporte teórico y fundacional del sistema cognitivo.
 
 ---
 
+## 📁 `/recursos/`
+Materiales complementarios de referencia externa: documentación de herramientas, reproductores clave (ej. Sonaar), enlaces útiles y manuales.  
+Función: Expandir el conocimiento del sistema hacia herramientas de terceros relevantes para la operación y desarrollo del proyecto Palma39.
+
+---
+
 ## 📄 `index.md`
 Este archivo. Mapa general de navegación y conexión semántica del repositorio.
 
@@ -47,4 +53,3 @@ Documento inicial de presentación y contexto general del repositorio.
 ## 🧭 Observaciones
 - Todas las carpetas están diseñadas para escalar progresivamente con el sistema.
 - Se recomienda mantener esta estructura modular para claridad, mantenibilidad y sincronización con Supabase y GPTs subordinados.
-
