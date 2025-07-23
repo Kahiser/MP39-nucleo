@@ -1,7 +1,7 @@
-🔖 Versión: 1.0 — Última actualización: 2025-07-20
-📁 Archivo: index.md
-🧠 Sistema: Palma39 — Núcleo Cognitivo
-🛠️ Rol: Índice estructural de navegación del repositorio
+🔖 Versión: 2.0 — Última actualización: 2025-07-23  
+📁 Archivo: index.md  
+🧠 Sistema: Palma39 — Núcleo Cognitivo  
+🛠️ Rol: Índice estructural de navegación del repositorio  
 
 ---
 
@@ -19,6 +19,7 @@ Este archivo actúa como índice maestro del repositorio `MP39-nucleo`, facilita
 - [`memoria/`](memoria/) — Archivo `memoria-viva-ext.v3.md` y otras estructuras de saber evolutivo.
 - [`sistema/`](sistema/) — Scripts y documentación para conexión Supabase y sincronización externa.
 - [`documentos/`](documentos/) — Archivos estratégicos, criterios de validación, esquemas de control.
+- [`recursos/`](recursos/) — Materiales complementarios, documentación de herramientas y reproductores clave.
 
 ---
 
