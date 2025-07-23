@@ -66,7 +66,7 @@ Este índice refleja fielmente la estructura de carpetas y archivos actual utili
 - `registro__registro-versiones.md`
   
 ## `/recursos/reproductores`
-- `__recursos.reproductores.sonaar-audio`
+- `recursos.reproductores__recursos.reproductores.sonaar-audio`
 
 ## `/sistema_memoria/estrategias`
 - `sistema_memoria.estrategias__criterios_validacion_aprendizajes.md`
