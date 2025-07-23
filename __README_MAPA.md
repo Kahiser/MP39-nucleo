@@ -21,17 +21,17 @@ El `mapa-cognitivo.v4.md` es el **índice maestro del sistema**, que documenta:
 
 El sistema está organizado en carpetas según su función cognitiva y operativa:
 
-| Carpeta             | Contenido principal                                         |
-|---------------------|-------------------------------------------------------------|
-| `/core/`            | Rol central GPTP39 y núcleo operativo                       |
-| `/prompts/`         | Archivos de rol funcional de los GPTs subordinados          |
-| `/modulos/`         | Módulos funcionales y experimentales del sistema            |
-| `/sistema_memoria/` | Estrategias de memoria, sincronización, validación          |
-| `/estructura/`      | Secciones de diseño, fundamentos, flujo cognitivo           |
-| `/infraestructura/` |            |
-| `/documentacion/`   | Glosario, índice, modelo de gobernanza, licencia            |
-| `/casos/`   		  | Soluciones específicas ya registradas como conocimiento útil |
-| `/recursos/`   	  | 			 |
+| Carpeta             | Contenido principal                                                                 |
+|---------------------|-------------------------------------------------------------------------------------|
+| `/core/`            | Rol central GPTP39 y núcleo operativo                                               |
+| `/prompts/`         | Archivos de rol funcional de los GPTs subordinados                                  |
+| `/modulos/`         | Módulos funcionales y experimentales del sistema                                    |
+| `/sistema_memoria/` | Estrategias de memoria, sincronización, validación y lógica de grabado              |
+| `/estructura/`      | Secciones de diseño, fundamentos, flujo cognitivo y relación entre componentes       |
+| `/infraestructura/` | Conexiones externas (Supabase, GitHub, APIs), entorno técnico, seguridad y despliegue|
+| `/documentacion/`   | Glosario, índice, modelo de gobernanza, licencia, documentación de apoyo            |
+| `/casos/`           | Soluciones específicas ya registradas como conocimiento útil o experiencia aprendida |
+| `/recursos/`        | Enlaces externos, referencias, documentación de herramientas (ej. Sonaar, Notion)    |
 
 ---
 
@@ -63,5 +63,3 @@ Para facilitar el mantenimiento futuro, se sugiere:
 ## 🧠 Frase guía
 
 > “Sin mapa, no hay rumbo. Sin trazabilidad, no hay evolución.”
-
----
